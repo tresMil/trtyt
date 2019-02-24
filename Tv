@@ -1,0 +1,98 @@
+#EXTM3U
+#EXTINF:-1,ESPN plus
+http://192.99.19.55:25461/live/saWgaby14160/8pNe9Yy/154.m3u8
+ 
+#EXTINF:-1,Fox Sports 2 latino
+http://192.99.19.55:25461/live/skioltyo/4VIrhLpbSc/158.m3u8
+#EXTINF:-1,DirecTV Sports 2
+http://192.99.19.55:25461/live/skioltyo/4VIrhLpbSc/6.m3u8
+#EXTINF:-1,ESPN 2 latino
+http://192.99.19.55:25461/live/skioltyo/4VIrhLpbSc/146.m3u8
+#EXTINF:-1,ESPN 3 latino
+http://192.99.19.55:25461/live/skioltyo/4VIrhLpbSc/8.m3u8
+#EXTINF:-1,Bein La Liga
+http://192.99.19.55:25461/live/skioltyo/4VIrhLpbSc/159.m3u8
+#EXTINF:-1,DirecTV Sports
+http://192.99.19.55:25461/live/skokolopojio/2s3avt9koa45/153.m3u8
+ 
+#EXTINF:-1,La liga TV HD
+http://192.99.19.55:25461/live/suArrebacasa13176/5fZf3S9yBL7/68.m3u8
+#EXTINF:-1,Bein Sports
+http://192.99.19.55:25461/live/suArrebacasa13176/5fZf3S9yBL7/55.m3u8
+#EXTINF:-1,DirecTV Sports +
+http://192.99.19.55:25461/live/suArrebacasa13176/5fZf3S9yBL7/152.m3u8
+#EXTINF:-1,Gol TV
+http://192.99.19.55:25461/live/s9qnte/7gJnotearriesguessss/148.m3u8
+#EXTINF:-1,Gol peru
+http://192.99.19.55:25461/live/s9qnte/7gJnotearriesguessss/149.m3u8
+#EXTINF:-1,Fox Sports 3
+http://192.99.19.55:25461/live/s9qnte/7gJnotearriesguessss/157.m3u8
+#EXTINF:-1,Fox Sports 2 MX
+http://192.99.19.55:25461/live/s9qnte/7gJnotearriesguessss/155.m3u8
+#EXTINF:-1,TyC Sports
+http://192.99.19.55:25461/live/sssjiolimoncon89ty/3lCrkbJsviu/43.m3u8
+#EXTINF:-1,ESPN 1 latino
+http://192.99.19.55:25461/live/sssjiolimoncon89ty/3lCrkbJsviu/104.m3u8
+#EXTINF:-1,ESPN Deportes
+http://192.99.19.55:25461/live/sssjiolimoncon89ty/3lCrkbJsviu/2.m3u8
+#EXTINF:-1,Fox Sports 1 Latino
+http://192.99.19.55:25461/live/sssjiolimoncon89ty/3lCrkbJsviu/37.m3u8
+#EXTINF:-1,Fox Sports Premium
+http://192.99.19.55:25461/live/sssjiolimoncon89ty/3lCrkbJsviu/39.m3u8
+#EXTINF:-1,Win sports
+http://192.99.19.55:25461/live/sFptevoyarobareltrafigg/1f9LbDblGooponteverga/44.m3u8
+#EXTINF:-1,A&E
+http://192.99.19.55:25461/live/sFptevoyarobareltrafigg/1f9LbDblGooponteverga/17.m3u8
+#EXTINF:-1,ADN 40
+http://192.99.19.55:25461/live/sFptevoyarobareltrafigg/1f9LbDblGooponteverga/76.m3u8
+#EXTINF:-1,Claro Sports
+http://192.99.19.55:25461/live/sFptevoyarobareltrafigg/1f9LbDblGooponteverga/54.m3u8
+#EXTINF:-1,Discovery world
+http://192.99.19.55:25461/live/sFptevoyarobareltrafigg/1f9LbDblGooponteverga/75.m3u8
+#EXTINF:-1,Fox Sports 1 MX
+http://192.99.19.55:25461/live/sFptevoyarobareltrafigg/1f9LbDblGooponteverga/5.m3u8
+
+
+
+
+#EXTINF:1,Chelsea tv
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:1,Deport tv
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8?
+#EXTINF:1,Madird tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/21gsJZo.png" group-title="DEPORTES",ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
+#EXTINF:-1 tvg-logo="http://tab3live.com/upload/7051488378180.png" group-title="DEPORTES",AD Sports 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 tvg-logo="http://tab3live.com/upload/7051488378180.png" group-title="DEPORTES",AD Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/realmadrid.jpg?" , REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/ChelseaTVLogo.png" group-title="DEPORTES",Chelsea Tv
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/p7DAIKG.png" group-title="DEPORTES",Todo Deportes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png"  group-title="DEPORTES", CDO
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.supersporting.net/wp-content/uploads/2014/06/Sporting-TV1.jpg" group-title="DEPORTES", Sporting Tv
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TbJa96g.png" group-title="DEPORTES",Teletrak
+http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8?CeceGeek.m3u8
+#EXTINF:-1 tvg-logo="http://static.cableondasports.com/site/assets/files/25027/cos-fc-cableondasports.226x90.jpg" ,COS FC SPORT
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportyou.es/blog/wp-content/uploads/2015/09/realmadridtv.jpg" ,REALMADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/SFC.jpg" ,SEVILLA FC TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,TDN SPORT
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(05)/index.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="CANAL HD DEPORTE", *** CANAL HD DEPORTE ***
+https://www.youtube.com/embed/SVWB8TKiFvc
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Zo9L1.png",Todo Deportes TV
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xex0vq5.jpg" group-title="DEPORTES", Sports TV | SD
+http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/master.m3u8
